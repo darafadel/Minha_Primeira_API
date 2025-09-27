@@ -6,7 +6,7 @@
 API desenvolvida com FastAPI para consultar informações sobre séries de televisão populares.
 
 ## Autor
-[Seu Nome Completo]  <!-- MUDE AQUI -->
+Dara Ferreira Fadel 
 
 ## Dataset
 Base de dados com 50 séries populares, incluindo:
